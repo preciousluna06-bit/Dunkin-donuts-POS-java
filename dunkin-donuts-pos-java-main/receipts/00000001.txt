@@ -1,0 +1,27 @@
+=====================================
+           DUNKIN' DONUTS
+    123 Donut Street, City Center
+         Tel: (062) 123-4567
+    VAT Reg. TIN: 000-123-456-000
+=====================================
+Receipt #: 00000001
+Date: October 5, 2026
+Time: 08:14 AM
+Cashier: Precious Veronica
+Terminal: POS-01
+-------------------------------------
+QTY  ITEM DESCRIPTION           TOTAL
+-------------------------------------
+30   Powdered Donut        ₱ 1,200.00
+     @ ₱ 40.00 each
+-------------------------------------
+SUBTOTAL                   ₱ 1,200.00
+VAT (12%) Included           ₱ 128.57
+TOTAL DUE                  ₱ 1,200.00
+-------------------------------------
+CASH                       ₱ 1,800.00
+CHANGE                       ₱ 600.00
+=====================================
+       Thank you! Come again!
+    Follow us on FB/IG: @DunkinPH
+=====================================

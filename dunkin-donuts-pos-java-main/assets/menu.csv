@@ -1,0 +1,21 @@
+# Category,Name,Price,ImageFile (ImageFile is optional - put the picture inside the category folder)
+# Edit freely. Any picture dropped in a category folder that is NOT listed here is added automatically
+# (name = file name, price = default.price below).
+Donuts,Classic Glazed,45,glazed.png
+Donuts,Chocolate Frosted,50,choco_frosted.png
+Donuts,Strawberry Frosted,50,strawberry_frosted.png
+Donuts,Boston Kreme,55,boston_kreme.png
+Donuts,Powdered Sugar,45,powdered_sugar.png
+Donuts,Jelly Filled,55,jelly_filled.png
+Munchkins,Munchkins 10pcs,120,munchkins_10.png
+Munchkins,Munchkins 25pcs,280,munchkins_25.png
+Coffee,Hot Coffee,85,hot_coffee.png
+Coffee,Iced Coffee,110,iced_coffee.png
+Coffee,Iced Latte,125,iced_latte.png
+Coffee,Cappuccino,115,cappuccino.png
+Drinks,Coolatta,120,coolatta.png
+Drinks,Iced Tea,80,iced_tea.png
+Drinks,Hot Chocolate,95,hot_choco.png
+Food,Ham & Cheese Croissant,110,croissant.png
+Food,Egg & Cheese Sandwich,105,egg_sandwich.png
+Food,Hash Browns,60,hash_browns.png
